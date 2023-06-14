@@ -1,0 +1,51 @@
+@charset "utf-8";
+.container-fluid {
+    background-image: -webkit-linear-gradient(270deg,rgba(185,152,93,1.00) 0%,rgba(255,255,255,1.00) 47.67%,rgba(180,137,62,1.00) 79.38%);
+    background-image: -moz-linear-gradient(270deg,rgba(185,152,93,1.00) 0%,rgba(255,255,255,1.00) 47.67%,rgba(180,137,62,1.00) 79.38%);
+    background-image: -o-linear-gradient(270deg,rgba(185,152,93,1.00) 0%,rgba(255,255,255,1.00) 47.67%,rgba(180,137,62,1.00) 79.38%);
+    background-image: linear-gradient(180deg,rgba(185,152,93,1.00) 0%,rgba(255,255,255,1.00) 47.67%,rgba(180,137,62,1.00) 79.38%);
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-image: -webkit-linear-gradient(270deg,rgba(19,13,7,1.00) 0%,rgba(255,0,0,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(19,13,7,1.00) 0%,rgba(255,0,0,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(19,13,7,1.00) 0%,rgba(255,0,0,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(19,13,7,1.00) 0%,rgba(255,0,0,1.00) 100.00%);
+    color: #DFD7D7;
+}
+.navbar-nav.mr-auto .nav-item.active .nav-link {
+    color: #EBDDDD;
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: #CDC9C9;
+}
+#headingOne1 .mb-0 a {
+    color: #F3CE00;
+}
+#accordion1 .card #headingTwo1 {
+    background-image: -webkit-linear-gradient(270deg,rgba(22,22,22,1.00) 97.82%,rgba(255,0,0,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(22,22,22,1.00) 97.82%,rgba(255,0,0,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(22,22,22,1.00) 97.82%,rgba(255,0,0,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(22,22,22,1.00) 97.82%,rgba(255,0,0,1.00) 100%);
+}
+#headingTwo1 .mb-0 .collapsed {
+    color: #F3CE00;
+}
+#accordion1 .card #headingThree1 {
+    background-image: -webkit-linear-gradient(270deg,rgba(29,27,28,1.00) 92.44%,rgba(255,0,0,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(29,27,28,1.00) 92.44%,rgba(255,0,0,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(29,27,28,1.00) 92.44%,rgba(255,0,0,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(29,27,28,1.00) 92.44%,rgba(255,0,0,1.00) 100%);
+}
+#headingThree1 .mb-0 .collapsed {
+    color: #F3CE00;
+}
+
+
+
+
+#accordion1 .card #headingOne1 {
+    background-image: -webkit-linear-gradient(270deg,rgba(13,13,13,1.00) 90.78%,rgba(255,0,0,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(13,13,13,1.00) 90.78%,rgba(255,0,0,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(13,13,13,1.00) 90.78%,rgba(255,0,0,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(13,13,13,1.00) 90.78%,rgba(255,0,0,1.00) 100%);
+}
